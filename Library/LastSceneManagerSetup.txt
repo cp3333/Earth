@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Screne/skene_lat_long.unity
+  isLoaded: 1
+  isActive: 1
